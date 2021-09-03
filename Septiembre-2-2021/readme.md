@@ -22,3 +22,8 @@ void main(){
 ## Flipgrid
 
 - [video]()
+
+## Diagrama de flujo imagenes
+
+<img src="img/Diagrama-josef.jpg" width="110">
+<img src="img/Diagrama2-josef.jpg" width="110">
