@@ -17,7 +17,11 @@ End Sub
 ```
 void main(){
 
-  print ("Recuerda que la cima no es el fin");
+   print ("Hola Jose Fuentes!");
+   print ("Te ves estupendo hoy!");
+   print ("Que tengas un buen dia!");
+   print ("Recuerda que la cima no es el fin.");
+ 
  }
 ```
 
@@ -28,3 +32,4 @@ void main(){
 ## Diagrama de flujo imagenes
 
 <img src="img/Diagrama-josef.jpg" width="110">
+<img src="img/Diagrama2-josef.jpg" width="110">
