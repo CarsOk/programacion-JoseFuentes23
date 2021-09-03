@@ -14,16 +14,17 @@ End Sub
 ```
 ## Ejercicio en dartpad
 
+```
 void main(){
 
   print ("Recuerda que la cima no es el fin");
  }
+```
 
 ## Flipgrid
 
-- [video]()
+- [video](https://flipgrid.com/14dbd27f)
 
 ## Diagrama de flujo imagenes
 
 <img src="img/Diagrama-josef.jpg" width="110">
-<img src="img/Diagrama2-josef.jpg" width="110">
