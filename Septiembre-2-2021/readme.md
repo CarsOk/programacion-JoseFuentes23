@@ -12,13 +12,13 @@ Sub Ejercicio()
     MsgBox "Recuerda que la cima no es el final."
 End Sub
 ```
-## Dartpad
+## Ejercicio en dartpad
 
 void main(){
    print ("Hola Jose Fuentes!");
-   print ("Te ves estupendo hoy!");
-   print ("Que tengas un buen dia!");
-   print ("Recuerda que la cima no es el fin");
+    print ("Te ves estupendo hoy!");
+     print ("Que tengas un buen dia!");
+      print ("Recuerda que la cima no es el fin");
  }
 
 ## Flipgrid
