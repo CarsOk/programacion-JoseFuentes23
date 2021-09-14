@@ -39,5 +39,5 @@ void main(){
 
 ## Diagrama de flujo imagen
 
-<img src="img/Diagrama-josef.jpg" width="110"
+<img src="img/Diagrama-josef.jpg" width="110">
 

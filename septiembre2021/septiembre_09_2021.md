@@ -29,4 +29,4 @@ End Sub
 
 #### Diagrama de flujo imagen
 
-<img src="img/diagrama de flujo promedio.jpg" width="110"
+<img src="img/diagrama de flujo promedio.jpg" width="110">
