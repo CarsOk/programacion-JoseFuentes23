@@ -2,8 +2,6 @@
 
 ## Ejercio en visual basic
 
-Hacer un programa que calcule el promedio de 5 notas y le muestre un mensaje al usuario indicando si el estudiante gano o no la asignatura. En el colegio se califica hasta 10 y se aprueba con un 7.
-
 
 ```
 Sub calcularpromedio()
